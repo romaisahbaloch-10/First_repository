@@ -1,2 +1,2 @@
-# First_repository
-To check how it works
+My Gemini Bot
+Testing
